@@ -13,6 +13,8 @@
 
 - The line chart(Theater_Outcomes_vs_Launch.png) shows how theater category outcomes are based on launched date. The chart clearly shows that May is the month that will receive the highest number of successful reaches to goal. October is the month that will receive the highest number of failed reaches to goal. When it comes to December, the number of successes and failures are nearly at the same point. The number of Successful is 37 and the number of failed is 35 in December. This could forecast that the outcome may be half/half if we launch the Theater campaigns in December. May is the month that we might want to consider launching theater campaigns.
 
+- ![](https://github.com/helen3121433/Working_with_excel/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 - We use COUNTIF() to see the relationship between funding goals and outcomes. In this tab, we're analyzing about subcategory "plays" in the theater category. 
 
@@ -23,6 +25,8 @@
 - Funding goal less than 1000, funding goal from 1000 to 4999, funding goal from 35000 to 39999, and funding goal 40000 to 44999 have higher chances of success as an outcome.
 
 - Funding goals from 20000 to 24999, 30000 to 34999, 45000 to 49999, and greater than 50000 have higher chances of failing as outcome.
+
+- ![](https://github.com/helen3121433/Working_with_excel/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 - Challenge is that we must be carefully input the formula right, or it won't show that result as we want. This boot camp provides lessons for us to follow step by step. And it will show the screenshot of the result at the end for us to make sure we did it correctly. However, in the real world, it will be more difficult since we are the one who needs to find out the correct answer, we won't have template steps for us to follow. Therefore, we will need to be careful and always double-check which data we should use, how to input the formula, how to create a pivot table in a better look, and which chart we should use for a better look. 
